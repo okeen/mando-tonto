@@ -11,3 +11,8 @@ Components:
 5- 7.5V Battery
 
 https://www.circuito.io/app?components=97,514,11022,611984,942700,942700,942700,942700,2631981
+
+## Pics
+
+![Pic 1](https://user-images.githubusercontent.com/783430/88280197-b08f9b80-cce5-11ea-9d83-5f800f853278.jpeg)
+![Pic 2](https://user-images.githubusercontent.com/783430/88280225-b7b6a980-cce5-11ea-9c86-a97f22f95ae7.jpeg)
